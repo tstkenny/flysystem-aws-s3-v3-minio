@@ -1,11 +1,11 @@
 {
-    "name": "league/flysystem-aws-s3-v3",
-    "description": "Flysystem adapter for the AWS S3 SDK v3.x",
+    "name": "tstkenny/flysystem-aws-s3-v3-minio",
+    "description": "Flysystem adapter for the AWS S3 SDK v3.x Minio fix",
     "license": "MIT",
     "authors": [
         {
-            "name": "Frank de Jonge",
-            "email": "info@frenky.net"
+            "name": "tstkenny",
+            "email": "tstkenny@gmail.com"
         }
     ],
     "require": {
